@@ -1,0 +1,42 @@
+.container {
+  position: relative;
+
+  .icon {
+    position: absolute;
+    top: 17px;
+    left: 16px;
+    height: 15px;
+    z-index: 1;
+  }
+
+  .input {
+    box-sizing: border-box;
+    position: relative;
+    padding-left: 40px;
+    width: 100%;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    height: 45px;
+    border: 2px solid whitesmoke;
+    border-radius: 15px;
+    outline: none;
+    background: #fff;
+
+  }
+  .testsCount {
+    position: absolute;
+    top: 14px;
+    right: 26px;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: lightgrey;
+
+  }
+}
+
