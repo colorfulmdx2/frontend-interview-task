@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee3a0b4a-a54d-47a2-8b72-0909356ad817" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_images/direction.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_images/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dal/API.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dashboard/Dashboard.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dashboard/Dashboard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/search/Search.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/search/search.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/table/Table.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/table/table.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +33,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last.edited.regexp" value="Sample Text" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TD/td-14" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -93,22 +74,38 @@
       <option name="presentableId" value="Default" />
       <updated>1614598685645</updated>
       <workItem from="1614598687142" duration="42510000" />
-      <workItem from="1614765075483" duration="18686000" />
+      <workItem from="1614765075483" duration="18970000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: end up interview task">
+      <created>1614797290056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614797290056</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: end up interview task" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: end up interview task" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="422" y="0" key="CommitChangelistDialog2" timestamp="1614797223175">
+    <state x="422" y="0" key="CommitChangelistDialog2" timestamp="1614797287356">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="422" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1614797223175" />
-    <state x="640" y="159" key="FileChooserDialogImpl" timestamp="1614795179365">
+    <state x="422" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1614797287356" />
+    <state x="640" y="159" key="FileChooserDialogImpl" timestamp="1614797359346">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="159" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1614795179365" />
+    <state x="640" y="159" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1614797359346" />
+    <state x="352" y="104" key="Vcs.Push.Dialog.v2" timestamp="1614797323179">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="352" y="104" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614797323179" />
     <state x="448" y="232" key="run.anything.popup" timestamp="1614624453331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
